@@ -66,3 +66,15 @@ Data Collection → Data Cleaning → EDA → Feature Engineering → Model Trai
 ```bash
 pip install -r requirements.txt
 python house_price_prediction.py
+
+📈 Results
+
+Random Forest model performed better than Linear Regression with higher accuracy.
+
+🔮 Future Enhancements
+
+1) Add location-based prediction
+
+2) Deploy using Streamlit
+
+3) Use XGBoost
